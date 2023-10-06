@@ -13,6 +13,8 @@ public class Animal {
 			Animal animal = new Animal ("Cachorro", "Pastor Alemão", "Frida");
 		
 			System.out.println(animal.especie);
+			System.out.println(animal.raca);
+			System.out.println(animal.nome);
 			
 	}    
 	    
