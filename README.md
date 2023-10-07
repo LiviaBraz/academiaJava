@@ -8,7 +8,7 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 
 <br>
 <h4 align=center> Estamos aprendendo os seguintes tópicos, que serão adicionados à medida do aprendizado: </h4>
-
+ 
 - Introdução: Java ✅
 - Introdução: Orientação a Objetos ✅
 - Controle de Versão ✅
