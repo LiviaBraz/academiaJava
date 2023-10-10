@@ -1,6 +1,10 @@
 package aula06;
 
-import java.util.*;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.time.temporal.ChronoUnit;
+import java.util.List;
+
 import javax.swing.JOptionPane;
 
 public class Sistema {
@@ -44,11 +48,13 @@ public class Sistema {
                     String isbn = JOptionPane.showInputDialog("Digite o ISBN do livro:");
                     Livro novoLivro = new Livro(titulo, autor, isbn);
                     biblioteca.adicionarLivro(novoLivro);
+                    JOptionPane.showMessageDialog(null, "Livro adicionado com sucesso.");
                     break;
                     
                 	case "Remover um livro":
                     String isbnRemover = JOptionPane.showInputDialog("Digite o ISBN do livro a ser removido:");
                     biblioteca.removerLivro(isbnRemover);
+                    JOptionPane.showMessageDialog(null, "Livro removido com sucesso.");
                     break;
                     
                 	case "Buscar por título":
@@ -101,15 +107,25 @@ public class Sistema {
                 	    }
                 	    
                 	    if (livroParaDevolver != null && livroParaDevolver.isEmprestado()) {
-                	        biblioteca.devolverLivro(isbnDevolver);
-                	        JOptionPane.showMessageDialog(null, "Livro devolvido com sucesso.");
-                	    } else {
-            	        JOptionPane.showMessageDialog(null, "Este livro não foi emprestado ou não existe.", "", JOptionPane.ERROR_MESSAGE);
+                	    	String dataDevolucaoStr = JOptionPane.showInputDialog("Insira o dia da devolução (dd-MM-yyyy):");
+                	    	LocalDate dataDevolucao = LocalDate.parse(dataDevolucaoStr, DateTimeFormatter.ofPattern("dd-MM-yyyy"));
+                	    	LocalDate dataEntrada = LocalDate.now();;
+							LocalDate dataPrevista = ChronoUnit.DAYS.addTo(dataEntrada, 10);
+                	    	
+                	    	if (dataDevolucao.isBefore(dataPrevista) || dataEntrada.equals(dataPrevista)){
+                	    		biblioteca.devolverLivro(isbnDevolver);
+                	    		JOptionPane.showMessageDialog(null, "Livro devolvido com sucesso.");
+                	    	} else if (dataDevolucao.isAfter(dataPrevista)) {
+                	    		biblioteca.devolverLivro(isbnDevolver);
+                	    		JOptionPane.showMessageDialog(null, "Livro devolvido com atraso.");
+                	    	} 
                 	    }
+                	    else {
+            	    		JOptionPane.showMessageDialog(null, "Este livro não foi emprestado ou não existe.", "", JOptionPane.ERROR_MESSAGE);
+            	    	}
                     break;
 	            }
 	    }
 	}
 		
 }
-
