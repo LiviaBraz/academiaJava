@@ -9,6 +9,9 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 <br>
 <h4 align=center> Estamos aprendendo os seguintes tópicos, que serão adicionados à medida do aprendizado: </h4>
  
-- Introdução: Java ✅
-- Introdução: Orientação a Objetos ✅
-- Controle de Versão ✅
+- 01: Primeiro Programa ✅
+- 02: Introdução: Java ✅
+- 03: Orientação a Objetos - Classe, Objetos, Atributos e Métodos ✅
+- 04: OO - Construtores e Encapsulamentos ✅
+- 05: Controle de Versão ✅
+- 06: OO - Polimorfismo ✅
