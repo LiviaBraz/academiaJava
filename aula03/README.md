@@ -1,12 +1,12 @@
-<h4> Aula 01 - Orientação a Objetos </h4>
+<h2> Aula 01 - Orientação a Objetos </h2>
 
-<h6> Introduzir concentos de POO com java e o ambiente de desenvolvimento BlueJ </h6>
+<h3> Introduzir concentos de POO com java e o ambiente de desenvolvimento BlueJ </h3>
 
 - Entender os conceitos fundamentais de POO.
 - Aprender a sintaxe básica de Java com POO
 - Desenvolver habilidades práticas através do BlueJ
 
-<h6> Introdução </h6>
+<h3> Introdução </h3>
 
 - Histórico:
 
@@ -22,7 +22,7 @@
 
 	IDE projetada especificamente para o ensino. Com uma interface visual simples.
 
-<h6> Conceitos Básicos </h6>
+<h3> Conceitos Básicos </h3>
 
 - Aula 01:
 
@@ -50,16 +50,16 @@
 	Classes abstratas
 
 
-<h4> Aula 01 </h4>
+<h2> Aula 01 </h2>
 
-<h6> Principais Benefícios </h6>
+<h3> Principais Benefícios </h3>
 
 - Adaptabilidade;
 - Extensibilidade;
 - Reutilização;
 - Naturalidade;
 
-<h6> Definição </h6>
+<h3> Definição </h3>
 
 - Classe:
 
