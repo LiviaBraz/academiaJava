@@ -11,7 +11,7 @@ Atividade da Academia, que nos pede para criarmos um sistema de Biblioteca.
 - Devolução de livros por ISBN.
 - Listar todos os livros na biblioteca.
 - Listar livros emprestados.
-- Informar se os livros estão sendo devolvidor com atraso ou não.
+- Informar se os livros estão sendo devolvidos com atraso ou não.
 
 <br>
 
