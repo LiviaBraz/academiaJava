@@ -16,3 +16,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 04: OO - Construtores e Encapsulamentos ✅
 - 05: Controle de Versão ✅
 - 06: OO - Polimorfismo ✅
+- 07: Estudo de Caso - Petshop 	"Amigo Fiel" ✅
