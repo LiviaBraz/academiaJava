@@ -1,8 +1,8 @@
 <h1 align=center> Sistema Simples Gerenciamento de Biblioteca 📚❤️ </h1>
 
-Desafio Nº2 da Academia, que nos pede para criarmos um sistema de Biblioteca.
+Atividade da Academia, que nos pede para criarmos um sistema de Biblioteca.
 
-<h3> O sistema da biblioteca deve ser capaz de realizar as seguintes funcionalidades: </h3>
+<h3> O sistema deve ser capaz de realizar as seguintes funcionalidades: </h3>
 
 - Adicionar um livro à biblioteca.
 - Remover um livro da biblioteca com base em seu ISBN.
