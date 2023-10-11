@@ -1,4 +1,4 @@
-<h2> Aqui tivemos uma introdução do Java </h2>
+<h2> Aula 02 - Introdução ao Java </h2>
 
 Abrengendo os seguintes tópicos:
 
