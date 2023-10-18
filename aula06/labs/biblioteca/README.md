@@ -15,6 +15,13 @@ Atividade da Academia, que nos pede para criarmos um sistema de Biblioteca.
 
 <br>
 
+<h3> Nova implementação </h3>
+
+Na aula 08, recaptulando a OO, foi pedido para que implementemos uma nova classe: Revista. 
+E uma interface nova: Imprimível. Com uma nova funcionalidade:
+
+- Imprimir o livro/revista.
+
 <h4 align="center"> A seguir algumas imagens do desafio:</h4>
 
 Menu principal:
