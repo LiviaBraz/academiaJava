@@ -79,6 +79,10 @@ Comprar um produto:
 <img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/6c471a39-59f5-4ed0-a03b-7e1f5a2d7fdc">
 <img width="193" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/c9f72412-3500-4023-9752-8f334c500c62">
 <img width="260" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/f838ad81-8ef0-4830-a57c-e5972230c871">
+<br>
+Comprando mais do que tem:
+<br>
+<img width="212" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/1cc2e4c5-7e43-4a9d-bc20-f16634b00236">
 
 <br>
 
@@ -90,6 +94,10 @@ Agendar um serviço:
 <img width="209" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/d22c4a11-b0dc-42aa-85c6-a66ca8e1cdb8">
 <img width="193" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/cd21abb1-31ec-45e2-bd91-03e300d1edf7">
 <img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/a82b695b-0ec1-459c-8fd8-d72731a86be3">
+<br>
+Agendando em um horário já ocupado:
+<br>
+<img width="272" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/6028dc23-3c6f-4d69-b9b7-68de8a75d77e">
 <br>
 
 <br>
