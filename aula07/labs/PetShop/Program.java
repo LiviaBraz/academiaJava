@@ -184,7 +184,7 @@ public class Program {
                 }
 
                 if (horarioOcupado) {
-                    JOptionPane.showMessageDialog(null, "Este horário já está ocupado. Escolha horário.");
+                    JOptionPane.showMessageDialog(null, "Este horário já está ocupado. Escolha outro horário.");
                 } else {
                     Agenda novaAgenda = new Agenda(nomeAnimal, nomeServico, dataAgendamento, horarioAgendamento);
                     Agenda.listaAgenda.add(novaAgenda);
