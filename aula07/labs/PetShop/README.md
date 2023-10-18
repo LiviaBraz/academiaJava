@@ -1,6 +1,6 @@
 <h1 align=center> Sistema Simples Gerenciamento de PetShop 🐱🐶 </h1>
 
-Atividade da Academia, que nos pede para criarmos um sistema de PetShop.
+Estudo de Caso que nos pede para criarmos um sistema de PetShop.
 
 <h3> O sistema deve ser capaz de realizar as seguintes funcionalidades: </h3>
 
@@ -24,59 +24,78 @@ Tela de entrada:
 
 Menu principal:
 <br>
-<img width="200" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/373fdc1c-ac32-467a-8910-ff287c0624ed"><img width="195" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/4e34106d-0083-499d-abdf-3f6c76a98dfa">
+<img width="203" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/fa85baec-a80e-47af-a460-a129bbe588b4">
+<br>
+
+Menu de Funcionalidades:
+<br>
+<img width="202" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/9c293074-a0e7-4e29-8929-efab12bca6a3">
 <br>
 
 <br>
 Cadastrar um animal:
 <br>
-<img width="192" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/8c64f5a8-c597-4e12-8f84-d2a2ca88d6d1">
-<img width="197" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/547ccfc2-5901-4d69-9c0a-5fc912c384fc">
-<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/fe5441f5-937f-44cd-ae19-1d5b9752762e">
-<img width="195" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/80940000-6446-41b5-a964-f3b139778a81">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/93e94c69-64c0-4c9e-9fa1-2553aa5008b4">
+<img width="193" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/317a2063-49ab-4d9d-8298-93ae6bc2ff96">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/8be30ce0-823e-46d0-b933-342923dc4090">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/86a4db24-cdf9-42b8-9765-43f4ac5cb925">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/a42297fb-6fd0-48e4-bfc0-00cc57a7ff76">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/0a7b91b6-873b-4167-931e-dfc9d2d0b40c">
+<br>
+(O mesmo acontece para cachorros e pássaros)
 <br>
 
 <br>
 Cadastrar um produto:
 <br>
-<img width="212" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/971fc5f7-2ecf-4943-85e1-aa2a1aa49e8a">
-<img width="195" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/c0248bbf-d79f-4f1d-80bf-4aca1d387bb1">
+<img width="195" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/2f8acf7f-86fb-4107-b6a2-c27ce0682bd1">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/bdc60f81-dd7a-4c60-bb8f-6e4bd46bb08a">
+<img width="197" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/897836b5-2b7a-4891-89ad-99608b2176c6">
+<img width="265" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/fc0d5446-504f-4b09-9711-704e3632ee77">
+<img width="197" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/73ed2310-2ff1-4289-9132-1e4b4162cd8e">
 <br>
 
 <br>
 Cadastrar um serviço:
 <br>
-<img width="197" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/525f1ace-22cd-4b98-903a-24e91e729c00">
-<img width="212" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/ddb2bea3-0a1f-4659-acc8-bdb16ed19c7b">
+<img width="197" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/70793456-1979-476e-906a-b4a99ca9e6bc">
+<img width="193" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/93492bef-2f5f-4890-af0c-c5d561def98d">
 <br>
 
 <br>
 Mostrar produtos disponíveis:
 <br>
-<img width="209" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/fd08ac0c-9ae2-4aa7-97b1-021a41c0699d">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/1d88928a-26a9-48d7-b210-2df4cd96be0b">
+<br>
+Após a compra:
+<br>
+<img width="193" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/1edb19f4-c992-48a4-9c81-52a593353e66">
+
 <br>
 
 <br>
 Comprar um produto:
 <br>
-<img width="191" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/fa60d195-faf5-4128-8440-53a2abce4b48">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/6c471a39-59f5-4ed0-a03b-7e1f5a2d7fdc">
+<img width="193" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/c9f72412-3500-4023-9752-8f334c500c62">
+<img width="260" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/f838ad81-8ef0-4830-a57c-e5972230c871">
+
 <br>
 
 <br>
 Agendar um serviço:
 <br>
-<img width="224" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/895ca9d8-d5de-4285-a608-226f7a8b9242">
-<img width="198" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/5e12676a-0a4e-41ea-91ef-6b447a35e571">
-<img width="196" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/7da9d034-19f5-4ed8-868f-db2036936705">
+<img width="197" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/01fe9940-2d20-4634-8549-ad9253a4d944">
+<img width="195" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/424fe8db-df81-4f09-967e-04f1b9d6fdca">
+<img width="209" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/d22c4a11-b0dc-42aa-85c6-a66ca8e1cdb8">
+<img width="193" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/cd21abb1-31ec-45e2-bd91-03e300d1edf7">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/a82b695b-0ec1-459c-8fd8-d72731a86be3">
 <br>
 
 <br>
 Mostrar agenda de serviços:
 <br>
-<img width="216" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/20808e98-80ea-4099-81c4-22c1462bf2bd">
-<img width="192" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/bf115ba6-70f5-43b4-b28b-ced60db0f50b">
-<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/8b742a63-4da0-4cd2-9724-a270e93b6e1b">
-<img width="242" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/9f9c3e0c-f8fa-4393-a5dd-45d1739419ee">
+<img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/6da77dfa-8fd7-477b-8357-ec8ae7eb4848">
 <br>
 
 <br>
