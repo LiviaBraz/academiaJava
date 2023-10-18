@@ -11,7 +11,7 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 <h4 align=center> Estamos aprendendo os seguintes tópicos, que serão adicionados à medida do aprendizado: </h4>
  
 - 01: Primeiro Programa ✅
-- 02: Introdução: Java ✅
+- 02: Java ✅
 - 03: Orientação a Objetos - Classe, Objetos, Atributos e Métodos ✅
 - 04: OO - Construtores e Encapsulamentos ✅
 - 05: Controle de Versão ✅
@@ -19,3 +19,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 07: Estudo de Caso - Petshop 	"Amigo Fiel" ✅
 - 08: Recaptulação de Orientação a Objetos ✅
 - 09: OO: Interfaces ✅
+- 10: HTML ✅
