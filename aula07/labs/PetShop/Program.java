@@ -13,7 +13,7 @@ public class Program {
 		List<Produto> produtos = new ArrayList<>();
 		List<Servico> servicos = new ArrayList<>();
 		List<Animal> animais = new ArrayList<>();
-
+		
 		JOptionPane.showMessageDialog(null, "     🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾    "
 				+ "\n Bem vindx ao PetShop Amigo Fiel!\n" + "     🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾  ");
 
@@ -49,7 +49,7 @@ public class Program {
 							DateTimeFormatter.ofPattern("dd/MM/yyyy"));
 					String proprietario = JOptionPane.showInputDialog("Qual o nome do proprietário?");
 					Animal novoAnimal = new Cachorro(nomeAnimal, raca, dataNascimento, proprietario);
-					Animal.cadastrarAnimal(novoAnimal);
+					animais.add(novoAnimal);
 					JOptionPane.showMessageDialog(null, "Cachorro cadastrado com sucesso.");
 					break;
 				case "Gato":
@@ -59,7 +59,7 @@ public class Program {
 					dataNascimento = LocalDate.parse(dataNascimentoStr, DateTimeFormatter.ofPattern("dd/MM/yyyy"));
 					proprietario = JOptionPane.showInputDialog("Qual o nome do proprietário?");
 					novoAnimal = new Gato(nomeAnimal, raca, dataNascimento, proprietario);
-					Animal.cadastrarAnimal(novoAnimal);
+					animais.add(novoAnimal);
 					JOptionPane.showMessageDialog(null, "Gato cadastrado com sucesso.");
 					break;
 				case "Pássaro":
@@ -69,7 +69,7 @@ public class Program {
 					dataNascimento = LocalDate.parse(dataNascimentoStr, DateTimeFormatter.ofPattern("dd/MM/yyyy"));
 					proprietario = JOptionPane.showInputDialog("Qual o nome do proprietário?");
 					novoAnimal = new Passaro(nomeAnimal, raca, dataNascimento, proprietario);
-					Animal.cadastrarAnimal(novoAnimal);
+					animais.add(novoAnimal);
 					JOptionPane.showMessageDialog(null, "Pássaro cadastrado com sucesso.");
 					break;
 

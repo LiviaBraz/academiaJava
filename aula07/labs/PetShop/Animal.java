@@ -1,8 +1,6 @@
 package aula07;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
-
 
 public class Animal {
 
@@ -11,8 +9,6 @@ public class Animal {
 	private String raca;
 	private LocalDate dataNascimento;
 	private String proprietario;
-	
-	private static ArrayList<Animal> animais = new ArrayList<>();
 	
 	public Animal(String nome, String especie, String raca, LocalDate dataNascimento, String proprietario) {
 		
@@ -62,10 +58,6 @@ public class Animal {
 
 	public void setProprietario(String proprietario) {
 		this.proprietario = proprietario;
-	}
-	
-	public static void cadastrarAnimal(Animal animal) {	
-		animais.add(animal);
 	}
 
 }
