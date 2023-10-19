@@ -66,7 +66,7 @@ Cadastrar um serviço:
 Mostrar produtos disponíveis:
 <br>
 <img width="194" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/1d88928a-26a9-48d7-b210-2df4cd96be0b">
-<br>
+<br> 
 Após a compra:
 <br>
 <img width="193" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/1edb19f4-c992-48a4-9c81-52a593353e66">
