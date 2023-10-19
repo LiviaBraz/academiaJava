@@ -99,6 +99,10 @@ Agendando em um horário já ocupado:
 <br>
 <img width="272" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/6028dc23-3c6f-4d69-b9b7-68de8a75d77e">
 <br>
+Agendando animais ou serviços não cadastrados:
+<br>
+<img width="371" alt="image" src="https://github.com/LiviaBraz/academiaJava/assets/64878674/0bd288fa-81e3-4118-a66d-e1ee4e05f471">
+<br>
 
 <br>
 Mostrar agenda de serviços:
