@@ -22,3 +22,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 10: HTML ✅
 - 11: CSS ✅
 - 12: Prova teórica sobre OO ✅
+- 13: JavaScript e jQuery ✅
