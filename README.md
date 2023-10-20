@@ -21,3 +21,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 09: OO: Interfaces ✅
 - 10: HTML ✅
 - 11: CSS ✅
+- 12: Prova teórica sobre OO ✅
