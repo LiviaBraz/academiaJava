@@ -21,6 +21,9 @@ ensinados:
 4. Certifique-se de que todas as páginas estejam interligadas através de links de navegação em um menu.
 
 <br>
-Após essa tarefa da aula 10, foi passado uma aula de CSS no dia posterior, agora, devemos estilizar esse mini site com CSS, além de fazer algumas atividades rápidas e práticas também.
-<br><Br>
-Todo o exercício feito por mim, será disponibilizado na pasta Labs :]
+Após essa tarefa da aula 10, foi passado uma aula de CSS e outra de JS, agora, devemos estilizar esse mini site com CSS e JS além de fazer algumas atividades rápidas e práticas também.
+<br><br>
+Todas as atividades feitas por mim, serãp disponibilizadas na subpasta Labs, na aula 13.
+
+<br>
+O mini site ficará on em um novo repositório: <a href="https://github.com/LiviaBraz/miniSiteAcademia"> Mini Site</a> :]
