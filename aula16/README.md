@@ -98,4 +98,4 @@
 
 	> Maven Clean: a fase da limpeza em que todo o conteúdo da pasta de destino será removido.
 
-	> Outros plugins: existem uma diversidade de plugins que podem ser utilizados em um projeto com o Maven, os quais podem ser encontrados <a href="maven.apache.org/plugins/index.html">aqui.</a> 
+> Outros plugins: existem uma diversidade de plugins que podem ser utilizados em um projeto com o Maven, os quais podem ser encontrados <a href="https://maven.apache.org/plugins/index.html">aqui.</a> 
