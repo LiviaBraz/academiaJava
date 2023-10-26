@@ -49,4 +49,4 @@ f) Sistema de banco de dados:
 
 *Controle de transações:* Garantem que oerações de banco de dados sejam executadas com sucesso ou não, mantendo a consistência dos dados.
 
-*Conformidade com padrões:* Seguem padrões e normas para garantir a interoperabilidade e compatibilidade com outros sistemas.
+*Conformidade com padrões:* Seguem padrões e normas para garantir a interoperabilidade e compatibilidade com outros sistemas. 
