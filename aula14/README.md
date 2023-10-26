@@ -30,3 +30,6 @@ A definição dos dados e sua descrição é armazenada no SGBD na forma de um c
 Exemplos:
 
 MySql, PostgreSQL, SQL Server
+
+
+Exercício passado pelo professor para fixação, encontra-se disponível na pasta Labs.
