@@ -25,3 +25,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 13: JavaScript e jQuery ✅
 - 14: Introdução - Bancos de Dados ✅
 - 15: Debugging, Logging e Profiling ✅
+- 16: Maven ✅
