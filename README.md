@@ -27,3 +27,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 15: Debugging, Logging e Profiling ✅
 - 16: Maven ✅
 - 17: SQL ✅
+- 18: Praticando SQL ✅
