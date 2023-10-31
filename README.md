@@ -30,3 +30,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 18: Praticando SQL ✅
 - 19: Desafio com HTML, CSS e JavaScript ✅
 - 20: Exercícios em SQL ✅
+- 21: Desafio com Bancos de Dados ✅
