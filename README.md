@@ -31,3 +31,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 19: Desafio com HTML, CSS e JavaScript ✅
 - 20: Exercícios em SQL + Desafio ✅
 - 21: Correção + Desafio 2 ✅
+- 22: Prova Teórica sobre HTML,CSS, JS e Bancos de Dados ✅
