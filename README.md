@@ -34,3 +34,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 22: Prova Teórica sobre HTML,CSS, JS e Bancos de Dados ✅
 - 23: Servidores de Aplicação: Tomcat e Wildfly ✅
 - 24: JDBC ✅
+- 25: JPA e Hibernate ✅
