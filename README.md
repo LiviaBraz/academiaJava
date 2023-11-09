@@ -35,3 +35,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 23: Servidores de Aplicação: Tomcat e Wildfly ✅
 - 24: JDBC ✅
 - 25: JPA e Hibernate ✅
+- 26: 1º Atos Day ✅
