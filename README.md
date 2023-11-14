@@ -38,3 +38,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 26: 1º Atos Day ✅
 - 27: JDBC ✅
 - 28: JPA e Hibernate em Prática ✅
+- 29: Apresentação dos trabalhos: CRUD usando JPA ✅
