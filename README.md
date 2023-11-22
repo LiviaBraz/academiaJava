@@ -43,3 +43,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 31: Frameworks ✅
 - 32: Spring Boot ✅
 - 33: Java Server Faces (JSF) ✅
+- 34: Apresentações trabalhos sobre Frameworks, fiz: Angular ✅
