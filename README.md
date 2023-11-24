@@ -41,7 +41,8 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 29: Apresentação dos trabalhos: CRUD usando JPA ✅
 - 30: Servlets ✅
 - 31: Frameworks ✅
-- 32: Spring Boot ✅
+- 32: Spring Boot: Introdução ✅
 - 33: Java Server Faces (JSF) ✅
 - 34: Apresentações trabalhos sobre Frameworks ✅
 - 35: Angular ✅
+- 36: Spring Boot: Estrutura ✅
