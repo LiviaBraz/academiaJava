@@ -47,3 +47,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 35: Angular ✅
 - 36: HTTP, Spring Boot: Estrutura ✅
 - 37: Integração Spring Boot e JPA ✅
+- 38: Docker ✅
