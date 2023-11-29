@@ -48,3 +48,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 36: HTTP, Spring Boot: Estrutura ✅
 - 37: Integração Spring Boot e JPA ✅
 - 38: Docker ✅
+- 39: Mini Projeto: Locadora com JPA e Spring Boot ✅
