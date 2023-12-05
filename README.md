@@ -51,3 +51,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 39: Mini Projeto: Locadora com JPA, Spring Boot e Swagger ✅
 - 40: Angular e APIs ✅
 - 41: Continuação projeto Locadora ✅
+- 42: Spring Security ✅
