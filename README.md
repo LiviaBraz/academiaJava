@@ -52,3 +52,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 40: Angular e APIs ✅
 - 41: Continuação projeto Locadora ✅
 - 42: Spring Security ✅
+- 43: Apresentação do trabalho sobre Docker ✅
