@@ -53,3 +53,4 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 - 41: Continuação projeto Locadora ✅
 - 42: Spring Security ✅
 - 43: Apresentação do trabalho sobre Docker ✅
+- 44: Atos Day e começo do Trabalho Final ✅
